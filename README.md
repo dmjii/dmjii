@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dmjii
 - 👀 I’m interested in cybersecurity, networking, and app development
 - 🌱 I’m currently learning C++ and Web APIs
-- 💞️ I’m looking to collaborate on something you need 
+- 💞️ I’m looking to collaborate and make the world a better place
 - 📫 How to reach me ...
 
 <!---
