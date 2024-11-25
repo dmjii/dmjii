@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @dmjii
-- 👀 I’m interested in networking, cybersecurity, and reverse engineering
-- 🌱 I’m currently learning Java and Web APIs
-- 💞️ I’m looking to collaborate on mobile pentesting projects
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dmjii, and I love CS.
+- 👀 I’m interested in APIs, CTFs, ml, and network automation.
+- 🌱 I’m currently learning React and other fun WebDev things.
+- 💞️ I’m looking to collaborate on new and exciting projects.
+- 📫 How to reach me ... well, you probably already know me.
+- 🤫 This profile is a secret, but I'm glad you found it!
 
 <!---
 dmjii/dmjii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
